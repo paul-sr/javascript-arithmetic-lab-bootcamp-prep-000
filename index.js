@@ -1,2 +1,2 @@
-num = parseInt('2',10)
+num = parseInt('2.222',10)
 console.log(num)
