@@ -1,1 +1,2 @@
-parseInt('2',10)
+num = parseInt('2',10)
+console.log(num)
